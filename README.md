@@ -50,8 +50,4 @@ The materials are inspired by and conceptually aligned with frameworks discussed
 
 ## Contributions
 
-Feel free to fork this repository, suggest improvements, or open issues if you find any discrepancies or have questions.
-
-## License
-
-[Specify a license if you wish, e.g., MIT, Apache 2.0, or leave it as is if it's for personal/educational use without explicit licensing.]
+Feel free to fork this repository, suggest improvements, or have questions.
