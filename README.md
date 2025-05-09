@@ -2,7 +2,7 @@
 
 This repository explores the theoretical and practical connections between Mean Squared Error (MSE), a common metric for evaluating regression models, and entropy, a concept from information theory measuring uncertainty. The primary focus is on understanding how reducing uncertainty (lowering conditional entropy) relates to improving prediction accuracy (lowering MSE), particularly in the context of Ordinary Least Squares (OLS) regression.
 
-The materials are inspired by and conceptually aligned with frameworks discussed in papers such as:
+The materials are inspired by and conceptually aligned with frameworks discussed in the working paper:
 *   Olsen, W., Pérez Ruiz, D. A., & Wiśniowski, A. (2022). *Children's Work and Child Labour: Prevalence Rates and The Importance of Plural Causality.*  
 
 ## Repository Contents
@@ -38,8 +38,8 @@ The materials are inspired by and conceptually aligned with frameworks discussed
     *   RStudio (recommended) or any R-compatible IDE/text editor.
     *   The `MASS` R package. If not installed, run `install.packages("MASS")` in your R console.
 2.  **Running the Script:**
-    *   Open the `R_Simulations/mse_entropy_ols_simulation.R` script in RStudio or your preferred R environment.
-    *   Execute the script (e.g., by clicking "Source" in RStudio or using `source("R_Simulations/mse_entropy_ols_simulation.R")` in the R console after navigating to the project's root directory).
+    *   Open the `mse_entropy_ols_simulation.R` script in RStudio or your preferred R environment.
+    *   Execute the script (e.g., by clicking "Source" in RStudio or using `source("mse_entropy_ols_simulation.R")` in the R console).
 3.  **Output:**
     *   The script will print output to the R console, showing:
         *   Simulated data parameters.
